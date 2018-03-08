@@ -20,7 +20,7 @@ The **attendance & grading info** is available for group 30432 at https://docs.g
 
 *Administrative:*
 
-For delivering your assignments & project work, you will need to use Github Classroom. The classroom for your group is created, please join it via the link https://classroom.github.com/classrooms/37173717-utcncssoftwaredesigntudorv2018
+For delivering your assignments & project work, you will need to use Github Classroom. The classroom for your group is created, please join it via the link https://classroom.github.com/a/Vr_aaACd
 
 **IMPORTANT**: please update your profile in order to feature your full name. In case you do not wish your existing github account to be linked to your name, please create a new account & provide the full name in it 
 
