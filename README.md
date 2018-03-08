@@ -1,15 +1,18 @@
 # News & Updates - Software Design Lab & Project UTCN 2018 #
 ## Group 30432  -- Assistant Tudor Vlad ##
 
-##### ~~~ Please follow this page on a regular basis ~~~ #####
+### ~~~ Please follow this page on a regular basis ~~~ ###
 
 <br>
 <br>
+
+-----------------------------
 
 The **schedule for the entire class** is available in this repository: **Schedule_2018.docx** [ https://github.com/UTCNCSSoftwareDesignTudor2018/Lab2018Info/blob/master/Schedule_2018.docx ]
 
 The **attendance & grading info** is available for group 30432 at https://docs.google.com/spreadsheets/d/1ApGptGUDw5_2XexFEp67ymz8_GobG8YynoDnl13CxBc/edit?usp=sharing
 
+-----------------------------
 
 
 
