@@ -19,7 +19,7 @@ This activity has to be done individually on 08.03.2018 at the laboratory. The e
 The **schedule for the entire class** is available in this repository: **Schedule_2018.docx** [ https://github.com/UTCNCSSoftwareDesignTudor2018/Lab2018Info/blob/master/Schedule_2018.docx ]
 
 
-*Homework for W3 (deadline 14.03 20:00 sent via email)
+*Homework for W3 (deadline 14.03 20:00 sent via email)*
 
 1. Choose one of the following:
 	- Review the SOLID principles and *individually* summarize in *your own words* each of the 5 principles. Please do not copy-paste from the internet as it will be verified.
