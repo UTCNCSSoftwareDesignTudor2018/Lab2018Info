@@ -19,8 +19,8 @@ The **attendance & grading info** is available for group 30432 at https://docs.g
 Assignment 1 & Project specs are uploaded on this repo.
 
 Also created the github classroom repos - which you need to use. Please join:
-https://classroom.github.com/a/ji9iVS60 for Assig 1
-https://classroom.github.com/g/Wkn09srl for the Project
+- https://classroom.github.com/a/ji9iVS60 for Assig 1
+- https://classroom.github.com/g/Wkn09srl for the Project
 
 
 *Homework for W4*
