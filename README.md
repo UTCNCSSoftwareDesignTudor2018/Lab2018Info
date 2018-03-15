@@ -14,6 +14,21 @@ The **attendance & grading info** is available for group 30432 at https://docs.g
 
 -----------------------------
 
+### Update 15 March 2018 ###
+
+Assignment 1 & Project specs are uploaded on this repo.
+
+Also created the github classroom repos - which you need to use
+
+
+*Homework for W4*
+1. consult the Schedule -> work & present the deliverables accordingly
+2. recommended reading: Chapters 6-9 from Microsoft Application Architecture Guide, 2nd Edition available at https://msdn.microsoft.com/en-us/library/ff650706.aspx
+
+-----------------------------
+
+
+
 
 
 ### Update 08 March 2018 ###
@@ -25,7 +40,6 @@ For delivering your assignments & project work, you will need to use Github Clas
 **IMPORTANT**: please update your profile in order to feature your full name. In case you do not wish your existing github account to be linked to your name, please create a new account & provide the full name in it 
 
 This activity has to be done individually on 08.03.2018 at the laboratory. The exceptional deadline for completing this is 14.03.2018 20:00  
-
 
 
 *Homework for W3 (deadline 14.03 20:00 sent via email)*
