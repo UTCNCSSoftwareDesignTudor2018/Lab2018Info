@@ -24,6 +24,8 @@ Links to Live coding code https://github.com/UTCNCSSoftwareDesignTudor2018/Lab20
 
 - please use a different RDBMS than on A1 as well as using a NoSQL DB for storing the reports
 
+- please use the ORM One-to-Many / Many-to-Many / ... multiplicity mechanisms
+
 - please use 1 DP from FactoryMethod / Builder
 
 - please use Dependency Injection or create Integration Tests for 1 flow
