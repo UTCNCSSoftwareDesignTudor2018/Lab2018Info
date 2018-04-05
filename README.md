@@ -18,11 +18,17 @@ The **attendance & grading info** is available for group 30432 at https://docs.g
 Links to Live coding code https://github.com/UTCNCSSoftwareDesignTudor2018/Lab2018Info/tree/master/resources
 
 
-Assignment 2 = revamp of A1 using Maven/Gradle/nuGet, MVC and Layers, hibernate/EntityFramework and Java/C# MV* development frameworks (Spring, .net/ASP) [ the main point here is doing it in MVC or a variant of it ]
-			- please use a different RDBMS than on A1 as well as using a NoSQL DB for storing the reports
-			- please use 1 DP from FactoryMethod / Builder
-			- please use Dependency Injection or create Integration Tests for 1 flow
-			- please DO NOT implement the authentication/authorization mechanism
+*Assignment 2* 
+
+= revamp of A1 using Maven/Gradle/nuGet, MVC and Layers, hibernate/EntityFramework and Java/C# MV* development frameworks (Spring, .net/ASP) [ the main point here is doing it in MVC or a variant of it ]
+
+- please use a different RDBMS than on A1 as well as using a NoSQL DB for storing the reports
+
+- please use 1 DP from FactoryMethod / Builder
+
+- please use Dependency Injection or create Integration Tests for 1 flow
+
+- please DO NOT implement the authentication/authorization mechanism
 
 -----------------------------
 
