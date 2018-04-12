@@ -13,6 +13,12 @@ The **schedule for the entire class** is available in this repository: **Schedul
 The **attendance & grading info** is available for group 30432 at https://docs.google.com/spreadsheets/d/1ApGptGUDw5_2XexFEp67ymz8_GobG8YynoDnl13CxBc/edit?usp=sharing
 
 -----------------------------
+
+Update 12.04.2018
+
+Assignment 2 link: https://classroom.github.com/a/6au9iMDp
+
+-----------------------------
 ### Update 05 April 2018 ###
 
 Links to Live coding code https://github.com/UTCNCSSoftwareDesignTudor2018/Lab2018Info/tree/master/resources
