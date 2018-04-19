@@ -12,6 +12,26 @@ The **schedule for the entire class** is available in this repository: **Schedul
 
 The **attendance & grading info** is available for group 30432 at https://docs.google.com/spreadsheets/d/1ApGptGUDw5_2XexFEp67ymz8_GobG8YynoDnl13CxBc/edit?usp=sharing
 
+
+
+-----------------------------
+
+Update 19.04.2018
+
+**Assignment 3** added in https://github.com/UTCNCSSoftwareDesignTudor2018/Lab2018Info/tree/master/assignments ( Github classroom invitation link present in the docx file)
+
+
+Also **modified the schedule for deliveries** - see https://github.com/UTCNCSSoftwareDesignTudor2018/Lab2018Info/blob/master/Schedule_2018__snapshot201804191746.pdf
+
+For **Project Deliverable 3 - due next week** - please make sure there is a consistent/congruent/complete design of the system based - this means that all concepts should be present in all architectural/design diagrams, naming should be consistent and only select the relationships (between the concepts/classes/entities) that you wish to model in the code. If any modifications are needed (for previous deliverables), please do them 
+
+
+
+
+
+
+
+
 -----------------------------
 
 Update 12.04.2018
