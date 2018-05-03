@@ -14,6 +14,32 @@ The **attendance & grading info** is available for group 30432 at https://docs.g
 
 
 
+
+-----------------------------
+
+Update 03.05.2018
+
+Lab/Project Retrospective
+
+Please answer the following questions truthfully:
+
+- What went well?
+
+- What went badly?
+
+- What do we need to start doing?
+
+- What do we need to stop doing?
+
+- What do we need to continue doing?
+
+- What surprises did we experience during the lab/project/semester?
+
+
+Thank you!
+
+
+
 -----------------------------
 
 Update 19.04.2018
