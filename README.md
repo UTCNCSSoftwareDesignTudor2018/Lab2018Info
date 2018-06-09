@@ -19,6 +19,7 @@ Update 09.06.2018
 
 Please see the lab recovery homework for the 13 colleagues that have attendance misses.
 
+https://github.com/UTCNCSSoftwareDesignTudor2018/Lab2018Info/blob/master/lab-recovery--DP-research.md
 
 -----------------------------
 

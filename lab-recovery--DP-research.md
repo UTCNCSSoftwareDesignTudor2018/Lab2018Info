@@ -35,7 +35,9 @@ Please do the analysis and send the report to my cs.utcluj.ro email by Sunday 10
 Please use books (see on Amazon the highly rated books), quality blog posts (written in the last 3 years), stackoverflow, ...
 
 
+--
 
+--
 
 
 Acu D. Raul Mihai			- Flyweight
