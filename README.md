@@ -13,6 +13,11 @@ The **schedule for the entire class** is available in this repository: **Schedul
 The **attendance & grading info** is available for group 30432 at https://docs.google.com/spreadsheets/d/1ApGptGUDw5_2XexFEp67ymz8_GobG8YynoDnl13CxBc/edit?usp=sharing
 
 
+-----------------------------
+
+Update 09.06.2018
+
+Please see the lab recovery homework for the 13 colleagues that have attendance misses.
 
 
 -----------------------------
