@@ -52,6 +52,9 @@ Important aspects to point-out (hoping you will address them even though you com
 ---
 
 As a final thought, 3 things:
+	
 	1) please take the internship seriously and learn as much as you can. It does not matter if the company/mentors don't 'invest' in you, BUT PLEASE be proactive, ask (even if it seems stupid - just be sure you checked enough google/stackoverflow pages before) and put your mind to it
+	
 	2) If Friday June 22nd works for you, let meet for beer somewhere in Pta Muzeului. I'm not buying ;)
+	
 	3) I strongly encourage the colleagus that feel they could have done more to go for re-evaluation in autumn (mariri). You can contact me in case there is a need to re-evaluate the lab/project work (you re-do it first)
