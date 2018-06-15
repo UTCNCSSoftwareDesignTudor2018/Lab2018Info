@@ -29,7 +29,7 @@ Criteria used for grading (as per the greenboard in May):
 - MVN / gradle / nuGet	
 - Unit Tests	
 - Input validation 	
-- > 6 code commits
+- more than 6 code commits
 	
 
 ---
