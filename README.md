@@ -14,6 +14,15 @@ The **attendance & grading info** is available for group 30432 at https://docs.g
 
 -----------------------------
 
+### UPDATE post-examples ###
+
+Grading and after-thoughts here https://github.com/UTCNCSSoftwareDesignTudor2018/Lab2018Info/blob/master/The-End-or-not.md
+
+Good luck!
+
+
+-----------------------------
+
 Update 11.06.2018
 
 The lab recovery homework/research (that I received) is here https://github.com/UTCNCSSoftwareDesignTudor2018/Lab2018Info/tree/master/Lab%20Recovery%20Work%202018
