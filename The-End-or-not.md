@@ -13,21 +13,23 @@ The vast majority of projects (implementation) are good. I appreciate the effort
 I especially appreciate the work of the students who used several technologies - keep up the good work, but PLEASE PLEASE DO NOT DISREGARD the process of analysing & documenting the project. If you do, you most likely will realize in 2-3 years that although you were on an accelerated career trajectory, you now hit "the ceiling" because there is so much you can do just by "hacking it" 
 
 The main issues regarding the projects:
-	- not putting enought thougth into the documentation
-	- too simple projects
-	- unfinished project 
-	- few commits - which begs the question who actually did the project
+
+- not putting enought thougth into the documentation
+- too simple projects
+- unfinished project 
+- few commits - which begs the question who actually did the project
 
 Criteria used for grading (as per the greenboard in May): 
-	- Doc final quality / completeness	
-	- Layers + another arch style	
-	- 2-5 Design Patterns	
-	- 2-3 OTM/MTM/MTO relations	
-	- frameworks / libraries	
-	- MVN / gradle / nuGet	
-	- Unit Tests	
-	- Input validation 	
-	- > 6 code commits
+
+- Doc final quality / completeness	
+- Layers + another arch style	
+- 2-5 Design Patterns	
+- 2-3 OTM/MTM/MTO relations	
+- frameworks / libraries	
+- MVN / gradle / nuGet	
+- Unit Tests	
+- Input validation 	
+- > 6 code commits
 	
 
 ---
@@ -37,6 +39,7 @@ Exam (Lab + Project part) grading
 Congratulations, everybody passed, although there were a few 'surprises'. But some good also :)
 
 Out of the students from group 30432 present at the exam:
+
 - 16% got 10
 - 36% received 9
 - 32% received 8
@@ -44,10 +47,11 @@ Out of the students from group 30432 present at the exam:
 The grading was normalized, more exactly everyone received a 3% bump to the actual grade (many 'x.35- x.45 grades). This bump factor favors the students who got bigger marks intentionally (as we discussed from the beginning, helping the people who work more)
 
 Important aspects to point-out (hoping you will address them even though you completed the course) for your career:
-	- many students do not know how to argue about a specific point, some resorting to 'tricks' of ennumerating unnecessary patterns etc
-	- several people do not know or know partially how to model a high level architecture, even-though the boundaries were clearly requested
-	- many students do not know how to model the Order-Products relation in E-R and/or Code (yes, ShoppingCart is almost the same as Order)
-	- many students separated the product from the corresponding quantity
+
+- many students do not know how to argue about a specific point, some resorting to 'tricks' of ennumerating unnecessary patterns etc
+- several people do not know or know partially how to model a high level architecture, even-though the boundaries were clearly requested
+- many students do not know how to model the Order-Products relation in E-R and/or Code (yes, ShoppingCart is almost the same as Order)
+- many students separated the product from the corresponding quantity
 
 ---
 
